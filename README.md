@@ -4,7 +4,7 @@ Zipper is a macro that adds Python-like `zip` generator iterator to nim.
 
 ## Usage
 
-```
+```nim
 from zipper import zipper
 
 proc myIter(): iterator: int =
